@@ -1,6 +1,6 @@
 # json-search-engine
 
-The executable is called `supersearch` and has the following command line interface.
+The executable for the search engine is called `supersearch` and has the following command line interface.
 The first argument is the command followed by additional information for the command. Here are examples:
 
 Usage:

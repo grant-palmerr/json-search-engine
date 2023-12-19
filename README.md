@@ -571,14 +571,9 @@ Explanation of what data structures are used where. For each, state
     Go back and open another? (yes or no) : no
 
 ### Performance:
-#### Provide statistics (word counts, timing, etc) for indexing all documents (or as many as you can in a reasonable amount of time):
     Larges dataset size tested = 371000: files:
         - Time to create index of files: 1895736 ms = 31.5956 minutes
         - Time to write index: 25512ms = 0.2252 minutes
     Query Search Time: QUERY: PERSON:Putin PERSON:Trump ORG:Lockheed ORG:Martin weapons defense -peace -happiness
         - Time to search a complex query from created indexed data: 3871ms = 3.871000s
 
-### Bonus Work
-Did you attempt any bonuses? If so, please give a brief description of what you did.
-
-   > We did not attempt any bonuses for this project.
